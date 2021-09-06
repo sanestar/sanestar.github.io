@@ -4,7 +4,7 @@ description         : >-
                       Talk is cheap. Show me the code.
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : sanestar/sanestar.github.io       # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : sanestar/portfolYOU
 
 
 ### Plugins ###
